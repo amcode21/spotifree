@@ -1,0 +1,17 @@
+#title {
+	margin-top: 25px;
+	text-align: center;
+}
+
+#searchTerm {
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+}
+
+#statusText {
+	text-align: center;
+	margin-top: 30px;
+}
